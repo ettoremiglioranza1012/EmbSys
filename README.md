@@ -37,4 +37,4 @@ Single click activates the system, double click cycles through modes. Uses 50ms 
 - **Target MCU**: STM32 Nucleo board
 - **Programming Language**: C (embedded)
 - **HAL Library**: STM32 Hardware Abstraction Layer
-- **Analysis Tools**: Jupyter Notebook, Python (pandas, plotly)
+- **Analysis Tools**: Jupyter Notebook, Python (numpy, pandas, matplotlib, seaborn)
